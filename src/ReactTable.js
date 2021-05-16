@@ -1,5 +1,7 @@
 export const ReactTable = (props) => {
+
   console.log("topNWord:-", props.topNWord);
+
   return (
     <>
       {props.topNWord.length > 0 && (

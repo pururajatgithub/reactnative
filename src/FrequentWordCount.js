@@ -3,6 +3,8 @@ import axios from "axios";
 import { ReactTable } from "./ReactTable";
 
 
+
+
 export const FrequentWordCount = () => 
 {
   const [value, setVaue] = useState(0);
